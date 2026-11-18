@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\Amiro Salhi\SOD\Project\Balatro Project\Balatro\Balatro Project\Balatro Project\bin\Debug\net10.0\Balatro Project.exe
+C:\Users\hp\Documents\Amiro Salhi\SOD\Project\Balatro Project\Balatro\Balatro Project\Balatro Project\bin\Debug\net10.0\Balatro Project.deps.json
+C:\Users\hp\Documents\Amiro Salhi\SOD\Project\Balatro Project\Balatro\Balatro Project\Balatro Project\bin\Debug\net10.0\Balatro Project.runtimeconfig.json
+C:\Users\hp\Documents\Amiro Salhi\SOD\Project\Balatro Project\Balatro\Balatro Project\Balatro Project\bin\Debug\net10.0\Balatro Project.runtimeconfig.dev.json
+C:\Users\hp\Documents\Amiro Salhi\SOD\Project\Balatro Project\Balatro\Balatro Project\Balatro Project\bin\Debug\net10.0\Balatro Project.dll
+C:\Users\hp\Documents\Amiro Salhi\SOD\Project\Balatro Project\Balatro\Balatro Project\Balatro Project\bin\Debug\net10.0\Balatro Project.pdb
+C:\Users\hp\Documents\Amiro Salhi\SOD\Project\Balatro Project\Balatro\Balatro Project\Balatro Project\obj\Debug\net10.0\Balatro Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Amiro Salhi\SOD\Project\Balatro Project\Balatro\Balatro Project\Balatro Project\obj\Debug\net10.0\Balatro Project.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Amiro Salhi\SOD\Project\Balatro Project\Balatro\Balatro Project\Balatro Project\obj\Debug\net10.0\Balatro Project.AssemblyInfo.cs
+C:\Users\hp\Documents\Amiro Salhi\SOD\Project\Balatro Project\Balatro\Balatro Project\Balatro Project\obj\Debug\net10.0\Balatro Project.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Amiro Salhi\SOD\Project\Balatro Project\Balatro\Balatro Project\Balatro Project\obj\Debug\net10.0\Balatro Project.dll
+C:\Users\hp\Documents\Amiro Salhi\SOD\Project\Balatro Project\Balatro\Balatro Project\Balatro Project\obj\Debug\net10.0\refint\Balatro Project.dll
+C:\Users\hp\Documents\Amiro Salhi\SOD\Project\Balatro Project\Balatro\Balatro Project\Balatro Project\obj\Debug\net10.0\Balatro Project.pdb
+C:\Users\hp\Documents\Amiro Salhi\SOD\Project\Balatro Project\Balatro\Balatro Project\Balatro Project\obj\Debug\net10.0\Balatro Project.genruntimeconfig.cache
+C:\Users\hp\Documents\Amiro Salhi\SOD\Project\Balatro Project\Balatro\Balatro Project\Balatro Project\obj\Debug\net10.0\ref\Balatro Project.dll
+C:\Users\hp\Documents\Amiro Salhi\SOD\Project\Balatro Project\Balatro\Balatro Project\Balatro Project\obj\Debug\net10.0\Balatro .A34D1B51.Up2Date
